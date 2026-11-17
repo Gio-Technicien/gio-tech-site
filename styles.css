@@ -17,6 +17,7 @@ body{background:var(--bg);color:var(--text)}
 .hero-lead,.section-heading>p:last-child,.approach-copy>p:not(.eyebrow),.contact-intro>p:not(.eyebrow){color:var(--muted)}
 .secondary{border-color:rgba(91,75,160,.25);color:#414b67;background:rgba(255,255,255,.72)}
 .trust-line{color:#66708a}
+.honeypot {position: absolute;left: -9999px; }
 .visual-card{box-shadow:0 25px 80px rgba(85,67,155,.17),inset 0 0 55px rgba(91,48,167,.12)}
 .float-tag{background:rgba(255,255,255,.96);color:#3e4661;box-shadow:0 10px 30px rgba(38,48,84,.12)}
 .scroll-cue{color:#68718a}
