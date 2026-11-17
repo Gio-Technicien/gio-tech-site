@@ -46,6 +46,6 @@ body{background:var(--bg);color:var(--text)}
 .footer-bottom{border-top:1px solid rgba(72,83,120,.16);color:#68718a}
 .intro{background:linear-gradient(145deg,#f8f9ff,#e9eef9)}
 .intro p{color:#65519a}
-.seo-content {text-align: left; max-width: 800px;margin: 0 auto;}
+.seo-content {text-align: left; margin: 0 auto;}
 .seo-content p {text-align: justify;}
 @media(max-width:650px){.navigation{background:#f8f9ff;border-bottom:1px solid rgba(91,75,160,.18)}}
